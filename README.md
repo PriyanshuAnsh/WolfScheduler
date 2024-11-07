@@ -6,7 +6,7 @@
 
 ## 🌟 Key Features
 #### Course Management
- ###### 📚 Load courses from external files
+ ##### 📚 Load courses from external files
  ##### ➕ Add and remove courses from schedules
  ##### ✅ Validate course conflicts
  ##### 🔢 Support for multiple course sections
