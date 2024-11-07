@@ -18,7 +18,7 @@ User Interface
 🖥️ Intuitive graphical interface
 🧭 Easy navigation between schedule views
 🔄 Real-time schedule modification
-### 🛠 Technologies Used
+## 🛠 Technologies Used
  - JavaSwingJUnit
  - Java
  - Swing for GUI
