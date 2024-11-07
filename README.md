@@ -6,18 +6,22 @@
 
 ## 🌟 Key Features
 #### Course Management
-📚 Load courses from external files
-➕ Add and remove courses from schedules
-✅ Validate course conflicts
-🔢 Support for multiple course sections
-Event Scheduling
-📅 Create custom events
-📋 Manage personal and academic events
-🚫 Conflict detection between events and courses
-User Interface
-🖥️ Intuitive graphical interface
-🧭 Easy navigation between schedule views
-🔄 Real-time schedule modification
+ ###### 📚 Load courses from external files
+ ##### ➕ Add and remove courses from schedules
+ ##### ✅ Validate course conflicts
+ ##### 🔢 Support for multiple course sections
+ 
+#### Event Scheduling
+
+ ##### 📅 Create custom events
+
+ ##### 📋 Manage personal and academic events
+
+ ##### 🚫 Conflict detection between events and courses
+## User Interface
+##### 🖥️ Intuitive graphical interface
+#### 🧭 Easy navigation between schedule views
+#### 🔄 Real-time schedule modification
 ## 🛠 Technologies Used
  - JavaSwingJUnit
  - Java
